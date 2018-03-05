@@ -1,7 +1,7 @@
 # My First Full Stack App using mongoDB
 *In Progress*
 In this project I practice Creating an Express Server.This app allows me to save and read from MongoDB, using the template engine Embedded JS.
-![Screenshot]("https://github.com/KMedinaTheDev/full-stack-mongoDB-demo/blob/master/mongoDBdemo.png")
+![alt tag]("https://github.com/KMedinaTheDev/full-stack-mongoDB-demo/blob/master/mongoDBdemo.png")
 
 **Link to project:** Coming Soon
 https://github.com/KMedinaTheDev/full-stack-mongoDB-demo/blob/master/mongoDBdemo.png
